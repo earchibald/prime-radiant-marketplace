@@ -1,0 +1,33 @@
+{
+  "name": "prime-radiant-marketplace",
+  "description": "Prime Radiant's Claude Code plugin marketplace.",
+  "owner": {
+    "name": "Prime Radiant, Inc.",
+    "email": "jesse@primeradiant.com"
+  },
+  "plugins": [
+    {
+      "name": "iterative-development",
+      "description": "An iterative implementation methodology that pairs with superpowers. Extracts requirements with proof obligations from large spec collateral, defines a walking skeleton that closes a real journey, then loops through audited sprints building a behavior evidence corpus until an auditor confirms the product matches the spec.",
+      "source": {
+        "source": "github",
+        "repo": "prime-radiant-inc/iterative-development"
+      },
+      "author": {
+        "name": "Prime Radiant, Inc.",
+        "email": "jesse@primeradiant.com"
+      }
+    },
+    {
+      "name": "greenfield",
+      "description": "Reverse engineer clean behavioral specs from any codebase.",
+      "source": {
+        "source": "github",
+        "repo": "prime-radiant-inc/greenfield"
+      },
+      "author": {
+        "name": "Prime Radiant, Inc."
+      }
+    }
+  ]
+}
